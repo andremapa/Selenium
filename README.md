@@ -5,10 +5,9 @@
 <p>Atividade do modulo de teste automatizados utilizando a ferramenta Selenium para simular uma pesquisa em um e-commerce</p>
 
 <h2>Simulação do test</h2>
-<video width="400" controls autoplay loop>
-	<source src="video/Simulacao.m4v" type="video/mp4">
-	<source src="video/Simulacao.webm" type="video/webm">
-</video>
+<p>
+	<img src="video/simulacao.gif" alt="Simulação do teste">
+</p>
 
 
 <p>Escopo da atividade:<br>
